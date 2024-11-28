@@ -2,8 +2,8 @@
 - 👀 I’m interested in Quantitative Finance
 - 🌱 I’m currently learning computational finance, stochastic modelling, quantitative analysis of financial markets.
 - 💞️ I’m looking to collaborate on items related to quant finance.
-- I'm looking for a job for quant roles in all asset classes (equity, indices, fixed income, commodities, fx).
-- Can reach out to me through betacarrot99@gmail.com
+- 🧳 I'm looking for a job for quant roles in all asset classes (equity, indices, fixed income, commodities, fx).
+- 📩 Can reach out to me through betacarrot99@gmail.com
 
 
 <!---
